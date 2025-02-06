@@ -66,8 +66,8 @@
             label = "Sym";
             bindings = <
 &trans      &kp EXCLAMATION  &kp AT_SIGN  &kp HASH  &kp DOLLAR  &kp PERCENT          &kp CARET  &kp AMPERSAND   &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp TILDE
-&kp DELETE  &trans           &trans       &trans    &trans      &trans               &trans     &kp MINUS       &kp EQUAL     &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp BACKSLASH
-&trans      &trans           &trans       &trans    &trans      &trans               &trans     &kp UNDERSCORE  &kp PLUS      &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp PIPE
+&kp DELETE  &trans           &trans       &trans    &trans      &trans               &trans     &kp MINUS       &kp EQUAL     &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp BACKSLASH
+&trans      &trans           &trans       &trans    &trans      &trans               &trans     &kp UNDERSCORE  &kp PLUS      &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp PIPE
                              &trans       &trans    &trans      &trans       &trans  &trans     &trans          &trans
             >;
         };
